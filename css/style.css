@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto&display=swap");
+
+
+
+
+
+@import url("components/container.css"); 
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body {  
+color: black;
+font-family: 'Lusitana', serif;
+font-size: 20px;
+margin:  0px;
+
+}
+
+
+h1 {
+font-family: 'Abril Fatface', cursive;
+color: #FFEDD6;
+font-weight: bold;
+}
+
+
+}
+a {
+text-decoration: none;
+color: blue;
+font-weight: 600;
+font-size: 20px;
+transition: color 0.3s ease;
+}
+
+a:hover {
+color: black;
+}
+
